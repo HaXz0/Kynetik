@@ -1,0 +1,50 @@
+# --- Unity Temporary/Generated Files ---
+[Vv]ersion[Cc]ontrol/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]nityConfiguration.gen.cpp
+[Aa]ssets/AssetStoreTools*
+
+# --- Visual Studio / Rider / IDE Junk ---
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# --- OS Generated Files ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- Ubuntu/Linux Specific ---
+*~
+*.swp
+*.swo
+
+# --- Crash Reports ---
+sysinfo.txt
+
+# --- Builds (Keep your source, ignore the binaries) ---
+*.apk
+*.unitypackage
+*.app
